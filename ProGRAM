@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+  printf("Dobro dosli na kurs Linuxa\n");
+  printf("Dobro dosli na kurs Linuxa\n");
+  return 0;
+}
